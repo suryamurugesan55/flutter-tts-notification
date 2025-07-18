@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032599700272",
+    "project_id": "tts-notification-demo",
+    "storage_bucket": "tts-notification-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032599700272:android:7806eb77c303312966fef5",
+        "android_client_info": {
+          "package_name": "com.surya.flutter_tts_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApqt6Vwii6jTzy9KW8K7ejsdbgKp7uyQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
